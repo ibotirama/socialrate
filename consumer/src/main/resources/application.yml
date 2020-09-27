@@ -1,0 +1,7 @@
+com:
+  cybercube:
+    socialrate:
+      seed: 1.7
+      kafka:
+        bootstrapAddress: localhost:9092
+        topic: socialrate
