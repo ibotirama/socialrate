@@ -34,7 +34,7 @@ java -jar consumer/target/consumer-0.0.1-SNAPSHOT.jar
 ``` 
 
 ## :test_tube: Testing
-* For testing just send a REST call POST in the body a JSON with the data below.
+* For testing, just send a REST call POST in the body one JSON with the data below.
 ```
 {
 "first_name": "Max",
